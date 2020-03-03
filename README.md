@@ -1,6 +1,6 @@
 # Car
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Car"
+![logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Car"
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/car`. To experiment with that code, run `bin/console` for an interactive prompt.
 
@@ -9,26 +9,16 @@ TODO: Delete this and the text above, and describe your gem
 ## Installation
 
 Add this line to your application's Gemfile:
-<ol>
-<li>
-```ruby
-gem 'car'
-```
-</li>
-<li>
-And then execute:
-```
-    $ bundle install
-```
-</li>
-<li>
-Or install it yourself as:
-```
-    $ gem install car
-```
-</li>
-</ol> 
-This is really***very***important
+
+ - ```ruby gem 'car'```
+
+ - And then execute:
+```$ bundle install```
+
+ - Or install it yourself as:
+```$ gem install car```
+
+This is really **very** important
 
 ## Usage
 
@@ -42,5 +32,5 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are ~~welcome~~ more than welcome on GitHub at https://github.com/[aaleksandar]/car.
+Bug reports and pull requests are ~~welcome~~ more than welcome on GitHub at https://github.com/[aaleksandar86]/car.
 
